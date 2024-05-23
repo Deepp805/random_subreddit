@@ -1,1 +1,1 @@
-Extension that opens up a random subreddit
+Extension that opens up a random subreddit. To use, download this code using your preferred method, which can be either ssh or through a zip file. You can then use a guide like this (https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/) to upload the extension to chrome and then use.
